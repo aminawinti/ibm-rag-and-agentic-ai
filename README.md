@@ -8,11 +8,11 @@ Personal repo tracking my work through IBM's [RAG and Agentic AI Professional Ce
 
 ## Status
 
-Course 1 ✔️ • Courses 2 🚧 • Course 3 –10 ⬜
+Course 1 - 2 ✔️ • Courses 3 🚧 • Course 4 – 10 ⬜
 
 ## Why this repo?
 
-I'm a software engineer (4+ yrs), specializing frontend, with Django backend experience. I'm moving into AI engineering (especifically RAG pipelines and agentic systems).
+I'm a software engineer (4+ yrs), specializing frontend, with Django backend experience. I'm moving into AI engineering (specifically RAG pipelines and agentic systems).
 
 This repo **IS NOT** a copy of the course. It's my working notes, my own code (with comments explaining why, not just what), and eventually a standalone project that goes beyond the lab exercises.
 
@@ -30,4 +30,4 @@ Coming mostly from frontend, I'm paying extra attention to the ML-adjacent parts
 
 ## Certificates
 
-See `[certificates.md](certificates.md)`.
+Available in [`certificates.md`](certificates.md).
