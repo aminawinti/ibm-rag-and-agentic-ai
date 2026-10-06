@@ -4,11 +4,11 @@ Personal repo tracking my work through IBM's [RAG and Agentic AI Professional Ce
 
 ## Stack
 
-`Python` · `LangChain` · `Flask`
+`Python` · `LangChain` · `Flask` · `ChromaDB`
 
 ## Status
 
-Course 1 - 2 ✔️ • Courses 3 🚧 • Course 4 – 10 ⬜
+Course 1 - 3 ✔️ • Courses 4 🚧 • Course 5 – 10 ⬜
 
 ## Why this repo?
 
