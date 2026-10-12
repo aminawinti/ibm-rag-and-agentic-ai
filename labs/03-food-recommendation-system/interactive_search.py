@@ -1,4 +1,4 @@
-from shared_functions import *
+from shared import *
 
 # Global variable to store loaded food items
 food_items = []

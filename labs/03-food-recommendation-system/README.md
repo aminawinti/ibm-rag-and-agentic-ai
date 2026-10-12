@@ -23,7 +23,7 @@ The project shows how vector databases power real-world recommendation engines, 
 ├── data/
 │   └── FoodDataSet.json       # Food dataset
 ├── requirements.txt           # Dependencies
-├── shared_functions.py        # Data loading, ChromaDB setup, search helpers
+├── shared.py        # Data loading, ChromaDB setup, search helpers
 ├── interactive_search.py      # Interactive CLI search chatbot
 ├── advanced_search.py         # Filtered search (cuisine, calories, combined)
 ├── enhanced_rag_chatbot.py    # RAG chatbot powered by IBM Granite

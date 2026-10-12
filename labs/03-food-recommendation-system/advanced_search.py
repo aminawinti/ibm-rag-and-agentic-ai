@@ -1,4 +1,4 @@
-from shared_functions import *
+from shared import *
 
 def main():
     """Main function for advanced search demonstrations"""

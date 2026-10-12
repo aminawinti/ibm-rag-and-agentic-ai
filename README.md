@@ -4,15 +4,15 @@ Personal repo tracking my work through IBM's [RAG and Agentic AI Professional Ce
 
 ## Stack
 
-`Python` · `LangChain` · `Flask` · `ChromaDB`
+`Python` · `Flask` · `Gradio` · `IBM watsonx.ai` · `LangChain` · `LlamaIndex` · `ChromaDB` · `FAISS`
 
 ## Status
 
-Course 1 - 3 ✔️ • Courses 4 🚧 • Course 5 – 10 ⬜
+Course 1 - 4 ✔️ • Courses 5 🚧 • Course 6 - 10 ⬜
 
 ## Why this repo?
 
-I'm a software engineer (4+ yrs), specializing frontend, with Django backend experience. I'm moving into AI engineering (specifically RAG pipelines and agentic systems).
+I'm a software engineer (4+ yrs), specializing in Frontend, with Django backend experience. I'm moving into AI engineering (specifically RAG pipelines and agentic systems).
 
 This repo **IS NOT** a copy of the course. It's my working notes, my own code (with comments explaining why, not just what), and eventually a standalone project that goes beyond the lab exercises.
 
@@ -24,7 +24,7 @@ Coming mostly from frontend, I'm paying extra attention to the ML-adjacent parts
 .
 ├── notes/             # concept write-ups, organized by topic
 ├── labs/              # selected lab work, grouped by topic
-├── capstone/          # the flagship project in this repo
+├── capstone/          # the flagship project in this repo (coming soon)
 └── certificates.md    # completion certificates, linked
 ```
 

@@ -1,4 +1,4 @@
-from shared_functions import *
+from shared import *
 from typing import List, Dict, Any
 from ibm_watsonx_ai.foundation_models.utils.enums import ModelTypes
 from ibm_watsonx_ai.foundation_models import ModelInference
