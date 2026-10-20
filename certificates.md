@@ -6,3 +6,4 @@
 | 2. Build RAG Applications: Get Started               | 18 Aug 2026     | [View Certificate](https://coursera.org/share/57ba2bc3332c78cc488ae6a3a32ddf3c) |
 | 3. Vector Databases for RAG: An Introduction         | 25 Sep 2026     | [View Certificate](https://coursera.org/share/1b6a412a87297121d9c7ae6c948fbbe8) |
 | 4. Advanced RAG with Vector Databases and Retrievers | 10 Oct 2026     | [View Certificate](https://coursera.org/share/a5b122e6f5832ae463c14ed2629394d8) |
+| 5. Build Multimodal Generative AI Applications       | 20 Oct 2026     | [View Certificate](https://coursera.org/share/fead6fdd9b68d7cc59286c750d4edce7) |
