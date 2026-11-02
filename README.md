@@ -4,11 +4,11 @@ Personal repo tracking my work through IBM's [RAG and Agentic AI Professional Ce
 
 ## Stack
 
-`Python` · `Flask` · `Gradio` · `IBM watsonx.ai` · `LangChain` · `LlamaIndex` · `ChromaDB` · `FAISS`
+`Python` · `Flask` · `Gradio` · `IBM watsonx.ai` · `OpenAI` · `LangChain` · `LlamaIndex` · `ChromaDB` · `FAISS`
 
 ## Status
 
-Course 1 - 5 ✔️ • Course 6 🚧 • Course 7 - 10 ⬜
+Course 1 - 6 ✔️ • Course 7 - 10 ⬜
 
 ## Why this repo?
 
